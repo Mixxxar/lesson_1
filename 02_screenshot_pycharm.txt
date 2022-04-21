@@ -1,3 +1,6 @@
 # ссылка на скриншот файла 01_os_info.py
 
 # http://joxi.ru/bmoDJkPTO74bl2
+
+
+#Зачет
